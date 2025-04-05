@@ -1,6 +1,4 @@
-# Airbnb-analysis
-
-In-progress analysis of Airbnb listings dataset with a focus on pricing and location trends.
+# Airbnb-Analysis
 
 ## Overview
 This project explores Airbnb listing data to uncover trends in pricing, availability, and location. The goal is to gain insights that can inform both business decisions and traveler behavior.
@@ -9,7 +7,7 @@ This is a work-in-progress (WIP) project that demonstrates skills in data wrangl
 
 ## Dataset
 - [Inside Airbnb Open Data](http://insideairbnb.com/get-the-data.html)  
-  *(Include the specific city or file you’re using, if applicable)*
+ 
 
 ## Tools & Libraries
 - Python (Pandas, NumPy)
