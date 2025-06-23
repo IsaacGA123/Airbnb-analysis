@@ -21,11 +21,6 @@ This is a work-in-progress (WIP) project that demonstrates skills in data wrangl
 - Ongoing development of visual dashboards and interactive components
 
 
-## How to Run
-1. Clone the repo
-2. Open the Jupyter notebook
-3. Follow the notebook sections for data cleaning, EDA, and visualization
-
 ## Status
 In Progress  
 This project is under active development—stay tuned for updates.
