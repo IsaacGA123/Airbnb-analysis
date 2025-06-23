@@ -27,7 +27,7 @@ This is a work-in-progress (WIP) project that demonstrates skills in data wrangl
 3. Follow the notebook sections for data cleaning, EDA, and visualization
 
 ## Status
-🚧 In Progress  
+In Progress  
 This project is under active development—stay tuned for updates.
 
 ## Future Plans
