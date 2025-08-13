@@ -20,11 +20,6 @@ This project explores Airbnb listing data to uncover trends in pricing, availabi
 - Ongoing development of visual dashboards and interactive components
 
 
-## Future Plans
-- Add regression analysis to predict listing prices
-- Integrate mapping (Folium/Plotly) for geographic insights
-- Push dashboard version (Tableau/Streamlit) once complete
-
 ## Author
 Isaac Andujar  
 [GitHub Profile](https://github.com/IsaacGA123)
