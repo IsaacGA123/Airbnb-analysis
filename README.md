@@ -3,7 +3,6 @@
 ## Overview
 This project explores Airbnb listing data to uncover trends in pricing, availability, and location. The goal is to gain insights that can inform both business decisions and traveler behavior.
 
-This is a work-in-progress (WIP) project that demonstrates skills in data wrangling, exploratory data analysis (EDA), and data visualization using Python.
 
 ## Dataset
 - [Inside Airbnb Open Data](http://insideairbnb.com/get-the-data.html)  
