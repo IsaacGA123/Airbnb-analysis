@@ -20,10 +20,6 @@ This project explores Airbnb listing data to uncover trends in pricing, availabi
 - Ongoing development of visual dashboards and interactive components
 
 
-## Status
-In Progress  
-This project is under active development—stay tuned for updates.
-
 ## Future Plans
 - Add regression analysis to predict listing prices
 - Integrate mapping (Folium/Plotly) for geographic insights
