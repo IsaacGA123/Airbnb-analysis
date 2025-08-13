@@ -27,5 +27,4 @@ This project demonstrates end-to-end data skills: from data cleaning and transfo
 
 
 ## Author
-Isaac Andujar  
-[GitHub Profile](https://github.com/IsaacGA123)
+Isaac Andujar 
